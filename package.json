@@ -1,7 +1,7 @@
 {
   "name": "grunt-umi-layout",
   "description": "grunt插件，用于文件目录快速布局",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "homepage": "http://gitlab.umiit.cn/tool/grunt-umi-layout",
   "author": {
     "name": "xiejun",
